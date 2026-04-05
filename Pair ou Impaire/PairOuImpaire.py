@@ -13,7 +13,7 @@ def verif():
         label.config(text="Ce n'est pas un nombre !")
 M.title("Page")
 M.geometry("1000x500")
-M.resizable(False, True)
+M.resizable(False, False)
 ENTRY = tk.Entry(font=("Arial", 24), width=50, justify = "center")
 ENTRY.grid(row=3, column=0, padx=30)
 Button1 = tk.Button(text="Entrée", bg="red", command=verif, width=40)
