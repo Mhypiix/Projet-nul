@@ -1,0 +1,1 @@
+Ce programme sert juste à savoir si un nombre est pair ou impaire, je l'ai fait avec tkinter.
